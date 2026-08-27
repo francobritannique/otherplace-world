@@ -1,2 +1,16 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+# Published artifacts are verified BYTE FOR BYTE.
+#
+# The default `* text=auto` this repository started with normalises line
+# endings on checkout, which would change the bytes a client hashes without
+# changing anything in the commit — and the failure surfaces as a SHA-256
+# mismatch, i.e. as a tampering alarm rather than as a checkout setting. That
+# is the worst possible way to learn about a git configuration.
+#
+# Everything the channel serves is therefore declared binary-exact.
+*.json      -text
+*.jsonl     -text
+*.sig       -text
+
+# Prose stays ordinary text.
+*.md        text
+.gitattributes text
