@@ -1,0 +1,17 @@
+{
+  "generated" : "2026-08-27T00:00:00Z",
+  "keyId" : "otherplace-2026-08",
+  "schemaVersion" : 1,
+  "worlds" : [
+    {
+      "bytes" : 1446554,
+      "contentHash" : "7e4809cbb0183e8f",
+      "id" : "world-pilot-2026",
+      "mechanicsHash" : "7b3d30316ef7192f",
+      "minAppSchema" : 1,
+      "sha256" : "16e8d77de70d11e5a45c3bad35138df668dab87672500ec0867263cdf8e39bd2",
+      "url" : "worlds/world-pilot-2026/2026-08-27/world.json",
+      "version" : "2026-08-27"
+    }
+  ]
+}
