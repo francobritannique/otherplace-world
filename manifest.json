@@ -1,5 +1,5 @@
 {
-  "generated" : "2026-08-29T00:00:00Z",
+  "generated" : "2026-08-30T00:00:00Z",
   "keyId" : "otherplace-2026-08",
   "schemaVersion" : 1,
   "worlds" : [
@@ -22,6 +22,16 @@
       "sha256" : "94eebf4b6c1de6071fa478d47141be1534845ada6d16348fa44c1e5321ee964c",
       "url" : "worlds/world-pilot-2026/2026-08-29/world.json",
       "version" : "2026-08-29"
+    },
+    {
+      "bytes" : 1448951,
+      "contentHash" : "91badcb05da96859",
+      "id" : "world-pilot-2026",
+      "mechanicsHash" : "c963f8103af892a1",
+      "minAppSchema" : 1,
+      "sha256" : "94eebf4b6c1de6071fa478d47141be1534845ada6d16348fa44c1e5321ee964c",
+      "url" : "worlds/world-pilot-2026/2026-08-29b/world.json",
+      "version" : "2026-08-29b"
     }
   ]
 }
