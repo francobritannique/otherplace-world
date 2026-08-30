@@ -42,6 +42,16 @@
       "sha256" : "94eebf4b6c1de6071fa478d47141be1534845ada6d16348fa44c1e5321ee964c",
       "url" : "worlds/world-pilot-2026/2026-08-29c/world.json",
       "version" : "2026-08-29c"
+    },
+    {
+      "bytes" : 1455094,
+      "contentHash" : "f16af37e7da91682",
+      "id" : "world-pilot-2026",
+      "mechanicsHash" : "c963f8103af892a1",
+      "minAppSchema" : 1,
+      "sha256" : "0ab6137d0f8787f62484b2d22b655d6101e855e36ee43d657f44aeeeb702cf1f",
+      "url" : "worlds/world-pilot-2026/2026-08-29d/world.json",
+      "version" : "2026-08-29d"
     }
   ]
 }
